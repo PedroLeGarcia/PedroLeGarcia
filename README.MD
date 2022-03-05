@@ -7,7 +7,7 @@
 
 ### About me! 🤠🇧🇷🤝🇵🇸
 <br>
-<img width="300px" height="150px" src="https://giffiles.alphacoders.com/208/208295.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="babab"/>
+<img width="400px" height="200px" src="https://giffiles.alphacoders.com/208/208295.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="babab"/>
  
 <ul>
   <li> Cursando <b>DES</b>, na <b>ETEC De Peruibe</b></li>
@@ -17,7 +17,7 @@
   <li>Ave glória, Ave império!</li>
 </ul>
 
-<br>
+<br><br>
  <a href="https://github.com/PedroLeGarcia">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLeGarcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeGarcia&layout=compact&langs_count=7&theme=midnight-purple">
