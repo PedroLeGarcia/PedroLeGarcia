@@ -7,11 +7,12 @@
 
 ### About me! 🤠🇧🇷🤝🇵🇸
  <img width="400px" height="200px" src="https://giffiles.alphacoders.com/208/208295.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="babab"/>
-  <li> Cursando <b>DES</b>, na <b>ETEC De Peruibe</b></li>
-  <li>Admirador padrão do <b>Segundo Reinado</b></li>
-  <li>Gosto de estudar história</li>
+  <li> Cursando <b>DES</b>, na <b>ETEC De Peruibe🤪</b></li>
+  <li>Admirador padrão do <b>Segundo Reinado</b>😍</li>
+  <li>Gosto de estudar história🤓</li>
   <li>I Belive <b>Santos Dumont supremacy</b> fuck the wright brothers ✈️</li>
-  <li>Ave glória, Ave império!</li>
+  <li>Ave glória, Ave império!👑</li>
+  <li>Jojofag assumido🏳️‍🌈</li>
 </ul>
 
 <br><br><br>
