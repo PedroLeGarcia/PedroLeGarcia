@@ -1,7 +1,7 @@
 <div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, eu sou o Pedro!</h2>
 <a href="https://www.instagram.com/pedro_le_garcia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://account.xbox.com/pt-br/Profile?xr=socialtwistnav" target="_blank"><img src=" 	https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
+<a href="https://account.xbox.com/pt-br/Profile?xr=socialtwistnav" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 
 <img src="https://i.pinimg.com/originals/16/2c/22/162c2201cbf84bff77389b5210c4b2e4.gif" min-width="400px" height="380px" max-width="400px" width="400px" align="right" alt="Computador">
 
