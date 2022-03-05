@@ -6,9 +6,7 @@
 <a href="https://account.xbox.com/pt-br/Profile?xr=socialtwistnav" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a> <br> <br>
 
 ### About me! 🤠🇧🇷🤝🇵🇸
-<br>
 <img width="400px" height="200px" src="https://giffiles.alphacoders.com/208/208295.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="babab"/>
- 
 <ul>
   <li> Cursando <b>DES</b>, na <b>ETEC De Peruibe</b></li>
   <li>Admirador padrão do <b>Segundo Reinado</b></li>
