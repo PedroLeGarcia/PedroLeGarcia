@@ -7,7 +7,7 @@
 
 ### About me! 🤠🇧🇷🤝🇵🇸
 <br>
-<img width="300px" height="150px" src="https://giffiles.alphacoders.com/208/208295.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Renatus Cartesius"/>
+<img width="600px" height="300px" src="https://giffiles.alphacoders.com/208/208295.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Renatus Cartesius"/>
  
 <ul>
   <li> Cursando <b>DES</b>, na <b>ETEC De Peruibe</b></li>
